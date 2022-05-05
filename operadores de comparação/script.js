@@ -1,6 +1,6 @@
 /* 
 
-operadores de comparação: (==) (===) (!=) (!==) (>) (<) (>=) (<=)
+Operadores de comparação: (==) (===) (!=) (!==) (>) (<) (>=) (<=)
 
 == - igual de valor
 
